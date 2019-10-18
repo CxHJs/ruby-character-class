@@ -1,1 +1,5 @@
-# 勇者 (Hero) のふるまいを表すクラス
+require_relative './character.rb'
+
+class Hero < Character
+  
+end
